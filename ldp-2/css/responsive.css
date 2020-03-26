@@ -1,0 +1,575 @@
+@media screen and (max-width: 1920px){
+
+    .arrow {
+        bottom: 100px;
+    }
+
+}
+
+
+@media screen and (max-width: 1500px){
+    .outerWrapper {
+        padding: 0px 40px;
+    }
+    .footer-con-outer {
+       padding: 0 40px;
+    }
+
+}
+
+@media screen and (max-width: 1366px){
+    .t-pro {
+        width: 85%;
+    }
+
+}
+
+
+@media screen and (max-width: 1200px){
+
+.outerWrapper {
+        padding: 0px 10px;
+    }
+.footer-con-outer {
+    padding: 0 10px;
+}
+}
+
+
+@media screen and (max-width: 1024px){
+
+.request-form {
+    padding: 30px;
+}
+
+
+.request-form .form-group {
+    margin-bottom: 0px;
+}
+
+.wpcf7-form-control {
+    padding: 15px;
+}
+
+.option-carousel .owl-nav {
+    top: 308px;
+}
+
+.arrow {
+    bottom: 160px;
+}
+
+.video-holder img {
+    width: 100%;
+}
+
+.video-text {
+    margin-top: 90px;
+    padding-left: 30px;
+}
+
+.c-h {
+    height: 100%;
+}
+
+.raw-img img {
+    width: 92%;
+}
+
+.h-img h3 {
+    font-size: 19px;
+}   
+
+    .left-box {
+        width: 100%;
+        float: none;
+        height: auto;
+    }
+
+    .i-pro-1 img {
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .b-holder img {
+        height: auto;
+    }
+
+    .b-text h1 {
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .b-holder img.banner-img{
+        height: 550px;
+        object-fit: cover;
+        margin-bottom: 0px;
+    }
+
+    .b-text p {
+        width: 100%;
+        padding: 17px;
+    }
+    .i-pro-1 img {
+        margin: 35px auto;
+    }
+
+    .f-o-w {
+        margin-top: 60px;
+    }
+    .section-pad {
+        padding: 60px 0;
+    }
+    .section-main-title h2 {
+        line-height: 54px;
+    }
+    .request-form {
+        margin-left: 0px;
+    }
+    .manu-outer {
+        padding: 50px 0;
+    }
+    .h-i-w-o-w {
+    padding-bottom: 30px;
+}
+   
+
+}
+
+@media screen and (max-width: 991px){
+
+.t-pro h2 {
+    font-size: 30px;
+    line-height: 36px;
+
+}
+.righ-box {
+    padding-left: 20px;
+}
+}
+
+@media only screen and ( min-width: 768px  ) and (max-width: 980px ) {
+
+.wpcf7-form-control {
+    width: 100%;
+}
+
+.c-h {
+    height: 265px;
+}
+
+.request-form p {
+    font-size: 12px;
+}
+
+.request-form {
+    padding: 35px 30px;
+}
+
+.video-text {
+    margin-top: 0px;
+    padding-left: 25px;
+}
+
+.option-carousel .owl-nav {
+    top: 218px;
+}
+
+
+.section-main-title h2 {
+    font-size: 35px;
+}
+
+}
+
+
+@media screen and (max-width: 767px){
+
+.b-text h1 {
+    padding: 0 20px;
+}
+.why-choose h2 {
+    margin-bottom: 30px;
+}
+
+
+.section-main-title {
+    margin-bottom: 0px;
+}
+
+.ipt-row {
+    width: 100%;
+    float: none;
+}
+
+.wpcf7-form-control {
+    width: 100%;
+}
+
+.ipt-rown-pad {
+    padding-left: 0px;
+}
+
+.feature-product-section .simple-tab li:after {
+    display: none;
+}
+
+.request-form label {
+    display: block;
+}
+
+
+.simple-tab li a {
+    text-align: left !important;
+}
+
+.feature-product-section .simple-tab li a {
+    text-align: center !important; 
+}
+
+
+.arrow img {
+    width: 8%;
+}
+    .t-pro h2 {
+        font-size: 30px;
+    }
+
+    .t-pro {
+        width: 100%;
+    }
+    .request-form {
+        padding: 20px;
+    }
+    .why-choose-box {
+        padding: 10px;
+    }
+    .customization-option-section {
+        padding-top: 10px;
+    }
+    .customization-option-section .section-main-title h2 {
+        line-height: 30px;
+        text-align: center;
+    }
+    .customization-option-section .nav-link {
+        padding: 8px 0px;
+    }
+    .customization-option-section .nav-pills .nav-link {
+        font-size: 15px;
+    }
+    .option-carousel img{
+        margin-top: 20px;
+    }
+    .logo a img{
+        width: 150px;
+    }
+
+    .raw-mar {
+        margin-top: 50px;
+    }
+    .h-img h3 {
+        margin: 20px 0 0px;
+    }
+    .h-img p {
+        margin: 10px 0 30px;
+    }
+
+    .customization-option-section .simple-tab > li {
+
+    display: inline-block;
+    }
+    .customization-option-section .col-md-5 {
+    padding-right: 10px;
+   }
+   .customization-option-section ul li a span.option-arrow {
+    padding-right: 0px;
+}
+.customization-option-section .tab3 {
+    flex-direction: row;
+}
+.t-pro h2 {
+    line-height: 35px;
+}
+.customization-option-section ul li.selected a span.option-arrow {
+    transform: rotate(90deg);
+}
+
+.righ-box {
+    padding-left: 0px;
+}
+.ipt-rown-pad-2 {
+    padding-right: 0px;
+}
+.raw-big-img-holder {
+    margin-bottom: 40px;
+
+}
+}
+
+
+@media screen and (max-width: 667px){
+
+    .customization-option-section .simple-tab > li > a {
+        font-size: 16px;
+    }
+
+    .customization-option-section .simple-tab > li.selected > a {
+        margin-bottom: 20px;
+    }
+
+    .video-text {
+        margin-top: 0px;
+    }
+}
+
+
+@media only screen and ( min-width: 361px  ) and (max-width: 640px ) {
+
+
+.foo-text h2 {
+    font-family: "kandin",sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+}
+
+}
+@media screen and (max-width: 576px){
+
+.feature-product-section .simple-tab li {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.customization-option-section .nav-pills .nav-link span.option-arrow {
+    padding-right: 0px;
+}
+
+.option-carousel .owl-nav {
+    top: 195px;
+}
+
+.arrow img {
+    width: 8%;
+}
+ 
+.arrow {
+    bottom: 108px;
+}
+
+	.section-main-title h2 {
+		font-size: 25px;
+        padding-bottom: 23px;
+        line-height: 35px;
+        text-align: center;
+   }
+
+
+   .why-choose h2:after {
+        content: "";
+        position: absolute;
+        left: 0px;
+        bottom: 11px;
+        width: 40px;
+        height: 3px;
+        background: #875d3e;
+        right: 0px;
+        margin: 0 auto;
+    }
+
+   .project-tab .nav-link {
+	font-size: 13px;
+   }
+   .project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+	font-size: 14px;
+   }
+   .customization-option-section .tab3 {
+    flex-direction: column;
+}
+.customization-option-section .tab3 {
+    padding: 0 15px;
+}
+.customization img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.raw-holder p {
+    margin-top: 6px;
+    margin-bottom: 20px;
+}
+.raw-img img {
+    width: 100%;
+}
+.customization-arrow {
+    top: 292px;
+}
+
+.raw h3 {
+    margin-bottom: 15px;
+}
+
+.roatel-area::before {
+    display: none;
+}
+
+.righ-box {
+    background: #f7f5e9;
+    padding:30px 15px;
+}
+.i-pro-1 img {
+    margin: 0px;
+}
+
+.b-text h1 {
+    font-size: 22px;
+    line-height: 29px;
+}
+.b-text p {
+    margin-top: 19px;
+}
+.section-pad {
+    padding: 30px 0;
+}
+.roatel-area {
+    padding-bottom: 0px;
+}
+.b-text {
+    padding: 0px;
+}
+.footer-con {
+    padding: 40px 0;
+}
+.h-i-w-o-w {
+    padding-bottom: 0px;
+}
+.feature-product-section .simple-tab > li {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: block;
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 414px ) {
+
+.option-carousel .owl-nav {
+    top: 215px;
+}
+
+.video-text {
+    margin-top: 30px;
+    padding-left: 0px;
+}
+
+.raw-holder {
+	padding: 10px;
+}
+
+.raw-img img {
+    width: 100%;
+}
+
+.raw-big-img-holder {
+    margin-bottom: 30px;
+}
+
+.h-i-w-img img {
+	width: 100%;
+}
+
+.o-w-f {
+    background: #393939;
+    height: auto;
+    padding: 0 15px;
+    position: relative;
+}
+
+
+.foo-text h2 {
+    font-size: 25px;
+}
+
+.contact-btn {
+    margin-top: 30px;
+}
+
+}
+
+
+@media only screen and (max-width: 375px ) {
+
+.b-text h1 {
+    font-size: 23px;
+}
+
+.option-carousel .owl-nav {
+    top: 195px;
+}
+
+.modal-title {
+    font-size: 20px;
+}
+
+.raw-holder {
+	padding: 10px;
+}
+
+.raw-img img {
+    width: 100%;
+}
+
+.raw-big-img-holder {
+    margin-bottom: 30px;
+}
+
+.h-i-w-img img {
+	width: 100%;
+}
+
+.o-w-f {
+    background: #393939;
+    height: auto;
+    padding: 0 15px;
+    position: relative;
+}
+
+.foo-text h2 {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.contact-btn {
+    margin-top: 30px;
+}
+
+}
+
+@media only screen and (max-width: 375px ) {
+.option-carousel .owl-nav {
+    top: 190px;
+}  
+}
+
+@media only screen and (max-width: 320px ) {
+.b-text h1 {
+    font-size: 20px;
+}
+
+.option-carousel .owl-nav {
+    top: 160px;
+}
+
+.modal-title {
+    font-size: 18px;
+}
+
+}

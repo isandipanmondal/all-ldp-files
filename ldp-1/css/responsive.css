@@ -1,0 +1,270 @@
+@media only screen and (max-width: 2500px) and (min-width: 1400px) {
+	.header-row a {
+	    margin: 7% 0 0;
+  }
+  .banner-text {
+    top: 27%;
+  }
+}
+
+@media only screen and (max-width: 1600px){
+.top-section:before {
+    top: 390px;
+    height: 400px;
+    width: 120px;
+}
+}
+@media only screen and (max-width: 1199px){
+  .banner-text h1 {
+    font-size: 30px;
+    line-height: 38px;
+    padding-bottom: 16px;
+}
+.idp-btn a {
+    margin-top: 34px;
+}
+.banner-text {
+    top: 23%;
+    max-width: 440px;
+}
+.aspect-box{
+    padding-right: 0px;
+}
+.center .slick-prev, 
+.center .slick-next{
+    left: -300px;
+}
+.center .slick-next {
+    right: auto;
+    left: -200px;
+}
+}
+
+@media only screen and (max-width: 991px){
+.banner {
+    float: none;
+    display: flex;
+    flex-direction: column;
+}
+ .header-row a {
+    position: static;
+    margin: 0;
+    padding: 20px 0;
+}
+.header-row.is-sticky a {
+    padding: 5px 0;
+}
+
+.banner img {
+    width: 100%;
+}
+.banner-text {
+    position: static;
+    max-width: 100%;
+    padding: 20px 0;
+}
+.header-row a img {
+    max-width: 200px;
+    margin: 0 auto;
+}
+.sec-padd {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-cont h2 {
+    font-size: 30px;
+    max-width: 530px;
+    line-height: 42px;
+}
+.footer-cont a {
+    font-size: 16px;
+    padding: 16px 15px;
+    font-weight: 500;
+    max-height: 56px;
+}
+.center .slick-prev, 
+.center .slick-next{
+    left: -200px;
+}
+.center .slick-next {
+    right: auto;
+    left: -100px;
+}
+h2 {
+    font-size: 25px;
+    line-height: 30px;
+}
+.successful-stories h2 {
+    padding-bottom: 13px;
+}
+.brand-area {
+    position: static;
+    margin-bottom: 60px;
+}
+.successful-stories {
+    padding-top: 0px;
+}
+.form-box {
+    border-radius: 5px;
+    padding: 30px 20px 40px;
+}
+.form-box input {
+    padding: 0 20px;
+}
+.form-box textarea {
+    padding: 30px 20px;
+}
+.testimonial-item {
+    padding-bottom: 60px;
+}
+.aspect-box {
+    max-width: 100%;
+}
+}
+
+
+@media only screen and (max-width: 767px){
+.footer-cont {
+    display: block;
+    text-align: center;
+    padding: 40px 0 50px;
+}
+.footer-cont h2 {
+    max-width: 100%;
+    line-height: 40px;
+    padding-bottom: 30px;
+    font-size: 23px;
+    line-height: 34px;
+}
+.customization-area:before{
+    display: none;
+}
+.customization-area .row .col-md-3:nth-child(even) .customization-item {
+    padding-top: 0px;
+}
+.customization-item p {
+    margin: 0 auto 20px;
+}
+.center .slick-prev, 
+.center .slick-next{
+    top: auto;
+    bottom: 0;
+    -webkit-transform: translate(0, 0%);
+    -ms-transform: translate(0, 0%);
+    transform: translate(0, 0%);
+    left: 0;
+    right: 0;
+}
+.center .slick-next {
+    right: auto;
+    left: 60px;
+}
+.center .slick-list {
+    padding: 45px 0;
+}
+
+}
+
+@media only screen and (max-width: 575px){
+    .aspect {
+        flex-direction: column;
+    }
+    .aspect img {
+        margin-right: 0px;
+        max-height: inherit;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .neoprene-card {
+        padding-top: 20px;
+        padding-right: 0px;
+    }
+    .successful-item {
+    border-left: 0px solid #d6e3eb;
+    padding: 0px;
+    }
+    .form-left-feature h4 {
+    padding: 30px 0 20px;
+   }
+   .form-sectiob {
+    padding-top: 30px;
+}
+.form-left-area {
+    padding-right: 0px;
+}
+.form-box input {
+    height: 60px;
+}
+.ipt-row {
+    margin-bottom: 20px;
+}
+.banner-text {
+    text-align: center;
+}
+.form-left-area h3 {
+    text-align: center;
+}
+.neoprene-card {
+    text-align: center;
+}
+.regular .slick-prev, 
+.regular .slick-next {
+    top: 52%;
+    width: 35px;
+    height: 35px;
+    -webkit-transform: translate(0, -58%);
+    -ms-transform: translate(0, -58%);
+    transform: translate(0, -58%);
+    
+}
+.successful-stories {
+    padding-bottom: 10px;
+}
+.aspect-section {
+    padding-bottom: 10px;
+}
+.neoprene-section, .easy-stap {
+    padding-bottom: 10px;
+}
+.aspect-section h2 {
+    padding-bottom: 27px;
+}
+.featured-product {
+    padding-bottom: 20px;
+}
+.neoprene-card h3 {
+    font-size: 18px;
+}
+.banner-text h1 {
+    font-size: 24px;
+    line-height: 33px;
+}
+.form-sectiob {
+    padding-bottom: 0px;
+}
+.form-box {
+    padding: 30px 10px 55px;
+    box-shadow: none;
+}
+.testimonial-section .section-main-heading {
+    padding-top: 40px;
+}
+.testimonial-item:before {
+    height: 170px;
+}
+.testimonial-items {
+    padding-top: 115px;
+}
+.idp-btn a {
+    padding: 10px 10px;
+    font-size: 16px;
+}
+.form-box .wpcf7-submit {
+    height: 50px;
+    font-size: 16px;
+}
+.footer-cont a {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+}

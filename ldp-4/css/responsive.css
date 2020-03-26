@@ -1,0 +1,538 @@
+@media only screen and (max-width: 2500px) and (min-width: 1600px) {
+.container, .mml-row {
+    max-width: 1200px;
+ }
+
+/*  .image-container {
+   max-width: 1366px;
+   border: 1px solid red;
+}  */
+
+
+}
+
+@media only screen and (max-width: 1600px){
+.home-form {
+    width: 80%;
+}
+.slick-next {
+    right: 0;
+}
+.fang_clients_prodc ul li:nth-child(2) {
+    background: #fff;
+    padding: 36px;
+    width: 78%;
+    padding-left: 106px;
+}
+}
+
+
+@media only screen and (max-width: 1440px){
+.fang_width {
+    width: 528px;
+}
+.home_fang_title h1 {
+    font-size: 60px;
+    padding-top: 15px;
+    width: 746px;
+}
+.fang_home_content {
+    height: 590px;
+}
+.fang_brandlogo {
+    width: 614px;
+    margin-top: 50px;
+}
+.fang_brandlogo img{
+    width: 136px;
+}
+.tabs{
+    width: 100%;
+}
+.harinzaltal-tab .tabbed-content .tabs li a {
+    display: inline-block;
+    font-size: 16px;
+}
+.title_fang h2 {
+    font-size: 40px;
+}
+.fang_customization h4,
+.fang_impress_content h4 {
+    font-size: 19px;
+}
+.fang_customization p,
+.fang_impress_content p {
+    font-size: 14px;
+}
+
+}
+@media only screen and (max-width: 1366px){
+.fang_width {
+  width: 102%;
+}
+.fang_brandlogo {
+    width: 547px;
+    margin-top: 50px;
+}
+.fang_brandlogo img {
+    width: 110px;
+    margin: auto;
+}
+.details-list-cont p {
+    color: #444444;
+    font-size: 18px;
+}
+.fang_production p {
+    font-size: 15px;
+}
+.slick-prev:before, .slick-next:before {
+    font-size: 30px;
+}
+.custome_width {
+    width: 72%;
+}
+.title_fang p {
+    color: #666666;
+    font-size: 16px;
+}
+.fang_pic_chaip img {
+    width: 100%;
+    height: 360px;
+    object-fit: cover;
+}
+.fang_cabality_content h4 {
+    font-size: 40px;
+}
+.fang_cabality_content p,
+.fang_pic_prodc p {
+    font-size: 16px;
+}
+.fang_pic_prodc h4 {
+    font-size: 18px;
+    background-size: 17px;
+}
+.custome_width_left {
+    width: 94%;
+}
+.fang_pic_prodc ul li:nth-child(1) img {
+    width: 100%;
+    height: 520px;
+    object-fit: cover;
+}
+.yourbrand h2 {
+    font-size: 40px;
+}
+.coppyrigth p {
+    padding-left: 71px;
+}
+.chainsup .slick-prev:before, .chainsup .slick-next:before {
+    font-family: 'slick';
+    font-size: 37px;
+}
+.chainsup .slick-prev:before, .chainsup .slick-next:before {
+    font-family: 'slick';
+    font-size: 37px;
+}
+.titleproct {
+    padding-right: 88px;
+}
+}
+@media only screen and (max-width: 1199px){
+.bannerhome img{
+    height: 696px;
+    object-fit: cover;
+}
+.fang_production li {
+    width: 47%;
+    float: none;
+    display: inline-block;
+}
+.fang_production h4 {
+    font-size: 48px;
+}
+.form-box {
+    padding: 30px 40px 50px;
+    margin-top: 50px;
+}
+.harinzaltal-tab .tabs ul li {
+    padding: 0 20px;
+}
+.home_fang_title h1 {
+    font-size: 50px;
+    width: 628px;
+}
+.custome_width {
+    width: 94%;
+}
+.title_fang h2 {
+    font-size: 35px;
+}
+.production {
+    margin-top: 0;
+}
+
+.fang_clients_prodc ul li:nth-child(1) img {
+    margin-top: 48px;
+}
+.coppyrigth p {
+    padding-left: 10px;
+}
+.production .slick-prev, .production .slick-next {
+    top: 90%;
+}
+.fang_clients_prodc ul li:nth-child(2) {
+    width: 75%;
+}
+}
+@media only screen and (max-width: 1050px){
+.chainsup .slick-next {
+    right: 35px;
+}
+.chainsup .slick-prev {
+    left: 10px;
+}
+.fang_cabality_content {
+    margin-top: 10px;
+}
+img.fang_cabality_picimg {
+    max-width: 339px;
+    width: 100%;
+}
+}
+@media only screen and (max-width: 991px){
+.fang_production li {
+    width: 45%;
+}
+.section-main-heading h2 {
+    font-size: 48px;
+
+}
+.harinzaltal-tab .tabs ul li {
+    padding: 0 10px;
+    display: inline-block;
+}
+.fang_endless_feature::after {
+    content: '';
+    width: 100%;
+}
+.fang_supply_chain::after {
+    content: '';
+    width: 95%;
+}
+.fang_cabality_content h4 {
+    font-size: 28px;
+    line-height: normal;
+}
+.custome_width_left {
+    width: 100%;
+}
+.fang_clients_prodc ul li:nth-child(2) {
+    width: 66%;
+}
+
+.fang_pic_prodc ul li:nth-child(1) img {
+    width: 100%;
+    height: 596px;
+}
+.production .slick-prev {
+    left: 15%;
+}
+.fang_cabality_pic img {
+    margin: auto;
+    height: auto;
+}
+.fang_customization {
+    width: 100%;
+    height: 224px;
+}
+
+.harinzaltal-tab .tabs ul li {
+    padding: 0 0px;
+    display: inherit;
+}
+.harinzaltal-tab .tabs ul li a:hover, .harinzaltal-tab .tabs ul li a.active {
+    background: black;
+    color: #fff;
+    border-color: #fff;
+}
+.harinzaltal-tab .tabbed-content .tabs li a {
+    padding: 9px;
+    width: 100%;
+}
+.harinzaltal-tab .tabbed-content .tabs {
+    display: block;
+    background-color: #0000;
+    padding: 0;
+}
+.posibility-customize .col-md-6{
+    margin-bottom: 20px;
+}
+.fang_endless_feature::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+}
+.tabs {
+    margin-bottom: 20px;
+}
+
+}
+
+@media only screen and (max-width: 767px){
+
+.twentytwenty-container {}
+
+.twentytwenty-container img {
+    width: 100%;
+}
+
+.twentytwenty-wrapper {
+    margin-top: 50px;
+}
+
+
+.home_fang_title h1 {
+    font-size: 50px;
+    width: 100%;
+}
+.fang_home_content{
+    padding: 20px;
+}
+.fang_home_content,
+.bannerhome img,
+.bannerhome {
+    height: 100%;
+    width: 100%;
+
+}
+.fang_brandlogo {
+    width: 100%;
+    margin-top: 50px;
+    display: inherit;
+}
+.home-form {
+    width: 95%;
+}
+.details-list-cont {
+    padding-left: 76px;
+    padding-right: 0;
+}
+
+/* ====================== */
+
+.logo_fang {
+    padding-bottom: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #dcdcdc;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    height: 85px;
+}
+.logo_fang a img{
+    width: 80px;
+}
+.bannerhome {
+    padding-top: 85px;
+}
+.fang_width {
+    float: none;
+}
+.fang_brandlogo {
+    display: flex;
+    flex-wrap: wrap;
+}
+.fang_brandlogo img {
+    width: 25%;
+    margin: 0;
+}
+img.fang_cabality_picimg {
+    max-width: 404px;
+}
+.tabs {
+    margin-bottom: 0px;
+}
+.btncont {
+    text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 722px){
+/*.fang_clients_prodc ul li{
+    width: 100% !important;
+}*/
+.fang_clients_prodc ul li img {
+    width: 115px !important;
+    height: 115px !important;
+   /* margin: 0 auto -45px !important;*/
+}
+
+}
+
+@media only screen and (max-width: 640px){
+body{
+    overflow-x: hidden;
+}
+.form-left-area h2 {
+    font-size: 30px;
+}
+.fang_production li {
+    width: 100%;
+}
+.home_fang_title h1,
+.form-left-area h2,
+.section-main-heading h2,
+.title_fang h2 {
+    font-size: 28px
+}
+.home_fang_title p,
+.details-list-cont p,
+.fang_clients_prodc p {
+    font-size: 14px;
+}
+.details-list-cont h4 {
+    font-size: 18px;
+}
+.details-list-cont {
+    padding-left: 52px;
+    background-size: 40px !important;
+}
+.form-box {
+    padding: 13px;
+    margin-top: 20px;
+}
+.titleform {
+    font-size: 27px;
+    padding-top: 30px;
+}
+.form-box .Fang_wrap label {
+   font-size: 17px;
+}
+.fang_pic_chaip img,
+.fang_pic_prodc ul li:nth-child(1) img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.form-box .Fang_wrap input, .form-box .Fang_wrap textarea {
+    font-size: 15px;
+}
+
+
+.fang_cabality_content h4 {
+    font-size: 21px;
+    line-height: normal;
+}
+.titleproct {
+    font-size: 23px;
+    text-align: center;
+    padding-right: 0;
+}
+.fang_pic_prodc ul li {
+    width: 100%;
+    float: none;
+}
+
+.fang_pic_prodc ul li:nth-child(2) {
+    background: #fff;
+    padding: 30px;
+    margin-top: 0;
+    margin-left: 0;
+}
+.production .slick-prev, .production .slick-next {
+    top: 100%;
+}
+.production .slick-next {
+    left: 60%;
+}
+.fang_clients_prodc ul li:nth-child(2) {
+       background: #fff;
+    width: 100%;
+    margin-left: 0;
+    text-align: left;
+    padding: 20px;
+    margin-top: -50px;
+    padding-top: 50px;
+}
+.fang_clients_prodc ul li:nth-child(1) img {
+    margin: auto;
+}
+.fang_clients_prodc ul li {
+    width: auto;
+    float: none;
+}
+.clients .slick-prev {
+    left: -93px;
+}
+.pxm{
+    padding: 20px 0;
+}
+.title_fang p {
+    font-size: 15px;
+    padding: 0 15px;
+}
+.fang_supply_chain::after {
+    content: '';
+    width: 100%;
+}
+/*.logo_fang {
+    width: 100px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 0;
+    right: 20px;
+}*/
+.tabbed-content {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.slick-prev {
+    left: 0;
+}
+.footer {
+    text-align: center;
+}
+.swiper-button-next {
+    right: 18% !important;
+}
+.swiper-button-prev {
+    left: 14% !important;
+}
+.fang_clients_prodc ul li:nth-child(2) {
+    background: #fff;
+    width: auto;
+    margin-left: 0;
+    text-align: left;
+    padding: 20px 24px 20px 17px;
+    margin-top: -50px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fang_cabality_content h4 {
+    font-size: 24px;
+    padding-top: 40px;
+}
+img.fang_cabality_picimg {
+    /* max-width: 290px; */
+}
+}
+
+@media only screen and (max-width: 420px){
+/* img.fang_cabality_picimg {
+    max-width: 260px;
+} */
+}
+@media only screen and (max-width: 360px){
+/* img.fang_cabality_picimg {
+    max-width: 210px;
+} */
+}
